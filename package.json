@@ -1,8 +1,8 @@
 {
   "name": "seneca-calendar-flex",
   "description": "Seneca plugin: seneca-calendar-flex",
-  "version": "0.0.0",
-  "main": "lib/index.js",
+  "version": "0.1.0",
+  "main": "calender-flex.js",
   "license": "MIT",
   "scripts": {
     "test": "lab -v -L"
